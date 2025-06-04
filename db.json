@@ -10,5 +10,52 @@
         "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/misc-square-3.webp"
       ]
     }
+  ],
+  "about": [
+    {
+      "intro": {
+        "heading": "Our Culinary Journey",
+        "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+        "paragraphs": [
+          "Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.",
+          "Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet.",
+          "Nunc ut sem vitae risus tristique posuere.",
+          "Interdum et malesuada fames ac ante ipsum primis in faucibus."
+        ],
+        "images": [
+          "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/showcase-4.webp",
+          "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/showcase-2.webp"
+        ]
+      },
+      "quote": {
+        "chefImage": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/chef-1.webp",
+        "text": "\"Cooking is a language through which all the following properties may be expressed: harmony, creativity, happiness, beauty, poetry, complexity, magic, humor, provocation and culture.\"",
+        "author": "Executive Chef"
+      },
+      "features": [
+        {
+          "title": "Award Winning",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros."
+        },
+        {
+          "title": "Fresh Ingredients",
+          "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla."
+        },
+        {
+          "title": "Expert Team",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit."
+        },
+        {
+          "title": "Cooked with Love",
+          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        }
+      ],
+      "stats": [
+        { "label": "Years Experience", "value": "15+" },
+        { "label": "Expert Chefs", "value": "5" },
+        { "label": "Culinary Awards", "value": "3" },
+        { "label": "Happy Customers", "value": "15000+" }
+      ]
+    }
   ]
 }
