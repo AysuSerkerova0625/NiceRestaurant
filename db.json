@@ -62,5 +62,92 @@
         { "label": "Happy Customers", "value": "15000+" }
       ]
     }
+  ],
+  "menu": [
+    {
+      "category": "Starters",
+      "items": [
+        {
+          "id": 1,
+          "name": "Bruschetta",
+          "description": "Grilled bread with tomato, olive oil, and basil.",
+          "price": "$5.95",
+          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/starter-2.webp",
+          "menu-tag": "Vegetarian"
+        },
+        {
+          "id": 2,
+          "name": "Stuffed Mushrooms",
+          "description": "Mushrooms stuffed with cheese and herbs.",
+          "price": "$6.50",
+          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/starter-5.webp",
+          "menu-tag": "Vegetarian"
+        }
+      ]
+    },
+    {
+      "category": "Main Courses",
+      "items": [
+        {
+          "id": 4,
+          "name": "Grilled Salmon",
+          "description": "  Lorem ipsum dolor sit amet, consectetur adipiscing elit curabitur sed.",
+          "price": "$15.95",
+          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/main-1.webp",
+          "menu-tag": "SeaFood"
+        },
+
+        {
+          "id": 5,
+          "name": "Ribeye Steak",
+          "description": "  Lorem ipsum dolor sit amet, consectetur adipiscing elit curabitur sed.",
+          "price": "$21.00",
+          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/main-4.webp",
+          "menu-tag": "Chef's Choice"
+        }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        {
+          "id": 7,
+          "name": "Tiramisu",
+          "description": "Classic Italian dessert with coffee and mascarpone.",
+          "price": "$6.50",
+          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/dessert-7.webp",
+          "menu-tag": "Gluten Free"
+        },
+        {
+          "id": 8,
+          "name": "Chocolate Lava Cake",
+          "description": "Warm cake with a molten chocolate center.",
+          "price": "$7.00",
+          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/dessert-2.webp",
+          "menu-tag": "Classic"
+        }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "items": [
+        {
+          "id": 9,
+          "name": "Fresh Lemonade",
+          "description": "Cold-pressed lemon juice with mint.",
+          "price": "$3.00",
+          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/drink-3.webp",
+          "menu-tag": "Alcoholic"
+        },
+        {
+          "id": 10,
+          "name": "Espresso",
+          "description": "Strong, aromatic espresso shot.",
+          "price": "$2.50",
+          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/drink-8.webp",
+          "menu-tag": "Non-Alcoholic"
+        }
+      ]
+    }
   ]
 }
