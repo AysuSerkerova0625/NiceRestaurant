@@ -161,7 +161,7 @@
           "title": "Executive Chef",
           "awards": ["James Beard Award", "Two Michelin Stars"],
           "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor nisl elit.",
-          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/chefs/chef-1.webp",
+          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/chef-1.webp",
           "signature": "Chef Johnson"
         }
       ],
@@ -171,28 +171,28 @@
           "name": "Sophia Martinez",
           "title": "Pastry Chef",
           "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dignissim purus a ipsum faucibus, et porttitor.",
-          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/chefs/chef-2.webp"
+          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/chef-2.webp"
         },
         {
           "id": 2,
           "name": "Marcus Chen",
           "title": "Sous Chef",
           "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dignissim purus a ipsum faucibus, et porttitor.",
-          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/chefs/chef-3.webp"
+          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/chef-3.webp"
         },
         {
           "id": 3,
           "name": "Jonathan Williams",
           "title": "Head of Bar",
           "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dignissim purus a ipsum faucibus, et porttitor.",
-          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/chefs/chef-4.webp"
+          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/chef-4.webp"
         },
         {
           "id": 4,
           "name": "Isabella Romano",
           "title": "Grill Master",
           "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dignissim purus a ipsum faucibus, et porttitor.",
-          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/chefs/chef-5.webp"
+          "image": "https://bootstrapmade.com/content/demo/NiceRestaurant/assets/img/restaurant/chef-5.webp"
         }
       ]
     }
