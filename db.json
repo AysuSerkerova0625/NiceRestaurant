@@ -196,5 +196,17 @@
         }
       ]
     }
+  ],
+  "bookTable": [
+    {
+      "openingHours": [
+        {
+          "weekdays": "Monday - Friday: 11:00 AM - 11:00 PM",
+          "weekends": "Saturday - Sunday: 10:00 AM - 12:00 AM"
+        }
+      ],
+      "location": "1234 Main Street, Suite 100Boston, MA 02110",
+      "contactNumber": "+1 (617) 555-1234"
+    }
   ]
 }
