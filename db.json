@@ -210,5 +210,6 @@
       "location": "1234 Main Street, Suite 100Boston, MA 02110",
       "contactNumber": "+1 (617) 555-1234"
     }
-  ]
+  ],
+  "reservations": []
 }
